@@ -1,1 +1,14 @@
+public class RectangleArea {
+    public static void main(String[] args) {
+        // Hardcode values for length and width
+        double length = 5.0; // Default length
+        double width = 10.0; // Default width
+
+        // Calculate the area
+        double area = length * width;
+
+        // Display the result
+        System.out.println("The area of the rectangle is: " + area);
+    }
+}
 
